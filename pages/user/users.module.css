@@ -1,0 +1,153 @@
+.user {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  padding: 10px 10px 10px 10px;
+  align-items: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 0;
+  padding: 0 50vh;
+}
+
+.email {
+  font-size: 14px;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.name {
+  font-size: 18px;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box-btn {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 35px;
+  margin-top: 15px;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  font-size: 25px;
+}
+
+.address {
+  display: flex;
+  justify-content: center;
+  font-size: 15px;
+}
+
+.posts {
+  display: flex;
+  justify-content: center;
+  font-size: 40px;
+}
+
+.email {
+  font-weight: 500;
+  font-size: 16px;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.street {
+  font-weight: 500;
+  font-size: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.suite {
+  font-weight: 500;
+  font-size: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bs {
+  font-weight: 500;
+  font-size: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.phrase {
+  font-weight: 500;
+  font-size: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.companyname {
+  font-weight: 500;
+  font-size: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.website {
+  font-weight: 500;
+  font-size: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.phone {
+  font-weight: 500;
+  font-size: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.geolng {
+  font-weight: 500;
+  font-size: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.geolat {
+  font-weight: 500;
+  font-size: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.zipcode {
+  font-weight: 500;
+  font-size: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.city {
+  font-weight: 500;
+  font-size: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@media (max-width: 640px) {
+  .logo {
+    display: block;
+  }
+}
